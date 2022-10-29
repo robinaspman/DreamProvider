@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dream Provider</string>
+    <string name="add_dream">Add Dream</string>
+    <string name="show_dreams">Show Dreams</string>
+    <string name="delete_all">Delete All</string>
+    <string name="yourDream">What is your Dream?</string>
+</resources>
